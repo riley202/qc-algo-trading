@@ -5,8 +5,8 @@ Python based Algorithmic Trading System for the QuantConnect Platform by Derek M
 ## Machine Learning - Python Trading Systems
 
 ### TensorFlow Examples
-Basic TensorFlow Algorithm - Single Asset Classifier
-Basic TensorFlow Algorithm - Multi Asset Classifier
+* Basic TensorFlow Algorithm - Single Asset Classifier
+* Basic TensorFlow Algorithm - Multi Asset Classifier
 
 ### DEAP
-Genetic Programming Classifier
+* Genetic Programming Classifier
