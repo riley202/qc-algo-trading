@@ -1,11 +1,12 @@
 # qc-algo-trading
+
 Python based Algorithmic Trading System for the QuantConnect Platform by Derek M Tishler
 
-##Machine Learning - Python Trading Systems
+## Machine Learning - Python Trading Systems
 
-###TensorFlow Examples
+### TensorFlow Examples
 Basic TensorFlow Algorithm - Single Asset Classifier
 Basic TensorFlow Algorithm - Multi Asset Classifier
 
-###DEAP
+### DEAP
 Genetic Programming Classifier
